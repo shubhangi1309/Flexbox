@@ -1,2 +1,2 @@
 # flexbox
-component made using flexbox
+Component made using flexbox
